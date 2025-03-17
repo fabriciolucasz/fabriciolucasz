@@ -13,6 +13,8 @@ I am passionate about technology and continuously strive to improve my skills. M
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-323330?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 ![React](https://img.shields.io/badge/-React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-323330?style=for-the-badge&logo=node.js&logoColor=339933)
+![Postgres](https://img.shields.io/badge/-Postgres-323330?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-323330?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-323330?style=for-the-badge&logo=git&logoColor=F05032)
