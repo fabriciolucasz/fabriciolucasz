@@ -6,6 +6,7 @@ I am Fabricio, a programming student on a journey of deep learning and evolution
 I am passionate about technology and continuously strive to improve my skills. My goal is to become a proficient software developer and contribute to impactful projects.
 
 ### 🚀 Technologies
+![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -24,3 +25,4 @@ I am passionate about technology and continuously strive to improve my skills. M
 
 ## 📬 Contact
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fabriciolucasz/) or check out my projects on [GitHub](https://github.com/fabriciolucasz).
+
